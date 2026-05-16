@@ -1,0 +1,21 @@
+plugins {
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(25)
+    }
+}
+
+application {
+    mainClass = 'org.talha11bu.winrt4j.Main'
+}
+
+tasks.withType(JavaExec) {
+    jvmArgs += ['--enable-native-access=ALL-UNNAMED']
+}

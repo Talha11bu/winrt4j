@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5A9qXnfPexY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\11bu5\\Dev\\winrt4j\\metadata-parser\\metadata-parser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\11bu5\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\11bu5\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

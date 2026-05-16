@@ -1,0 +1,123 @@
+[
+  {
+    "Namespace": "Windows.Foundation",
+    "Name": "AsyncActionCompletedHandler",
+    "Kind": "Class",
+    "Methods": [
+      "Invoke"
+    ]
+  },
+  {
+    "Namespace": "Windows.Foundation",
+    "Name": "AsyncActionProgressHandler\u00601",
+    "Kind": "Class",
+    "Methods": [
+      "Invoke"
+    ]
+  },
+  {
+    "Namespace": "Windows.Foundation",
+    "Name": "AsyncActionWithProgressCompletedHandler\u00601",
+    "Kind": "Class",
+    "Methods": [
+      "Invoke"
+    ]
+  },
+  {
+    "Namespace": "Windows.Foundation",
+    "Name": "AsyncOperationCompletedHandler\u00601",
+    "Kind": "Class",
+    "Methods": [
+      "Invoke"
+    ]
+  },
+  {
+    "Namespace": "Windows.Foundation",
+    "Name": "AsyncOperationProgressHandler\u00602",
+    "Kind": "Class",
+    "Methods": [
+      "Invoke"
+    ]
+  },
+  {
+    "Namespace": "Windows.Foundation",
+    "Name": "AsyncOperationWithProgressCompletedHandler\u00602",
+    "Kind": "Class",
+    "Methods": [
+      "Invoke"
+    ]
+  },
+  {
+    "Namespace": "Windows.Foundation",
+    "Name": "AsyncStatus",
+    "Kind": "Class",
+    "Methods": []
+  },
+  {
+    "Namespace": "Windows.Foundation.Collections",
+    "Name": "CollectionChange",
+    "Kind": "Class",
+    "Methods": []
+  },
+  {
+    "Namespace": "Windows.Foundation.Collections",
+    "Name": "IIterable\u00601",
+    "Kind": "Interface",
+    "Methods": [
+      "First"
+    ]
+  },
+  {
+    "Namespace": "Windows.Foundation.Collections",
+    "Name": "IIterator\u00601",
+    "Kind": "Interface",
+    "Methods": [
+      "MoveNext",
+      "GetMany"
+    ]
+  },
+  {
+    "Namespace": "Windows.Foundation.Collections",
+    "Name": "IKeyValuePair\u00602",
+    "Kind": "Interface",
+    "Methods": []
+  },
+  {
+    "Namespace": "Windows.Foundation.Collections",
+    "Name": "IMapChangedEventArgs\u00601",
+    "Kind": "Interface",
+    "Methods": []
+  },
+  {
+    "Namespace": "Windows.Foundation.Collections",
+    "Name": "IMapView\u00602",
+    "Kind": "Interface",
+    "Methods": [
+      "Lookup",
+      "HasKey",
+      "Split"
+    ]
+  },
+  {
+    "Namespace": "Windows.Foundation.Collections",
+    "Name": "IMap\u00602",
+    "Kind": "Interface",
+    "Methods": [
+      "Lookup",
+      "HasKey",
+      "GetView",
+      "Insert",
+      "Remove",
+      "Clear"
+    ]
+  },
+  {
+    "Namespace": "Windows.Foundation.Collections",
+    "Name": "IObservableMap\u00602",
+    "Kind": "Interface",
+    "Methods": [
+      "add_MapChanged",
+      "remove_MapChanged"
+    ]
+  }
+]
