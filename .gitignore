@@ -1,0 +1,37 @@
+.zig-cache/
+zig-out/
+*.o
+*.obj
+*.pdb
+*.dll
+*.lib
+
+!schema/metadata.json
+
+**/bin/
+**/obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+.gradle/
+**/build/
+!**/src/main/resources/
+
+# Ignore Gradle GUI Redisplayed State
+.gradletasknamecache
+
+# Visual Studio Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# IntelliJ / JetBrains
+.idea/
+*.iml
+
+# OS files
+Thumbs.db
+.DS_Store
